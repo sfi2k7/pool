@@ -1,3 +1,5 @@
+Forked - Please support the original project @ https://godoc.org/gopkg.in/fatih/pool.v2
+
 # Pool [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/fatih/pool) [![Build Status](http://img.shields.io/travis/fatih/pool.svg?style=flat-square)](https://travis-ci.org/fatih/pool)
 
 
